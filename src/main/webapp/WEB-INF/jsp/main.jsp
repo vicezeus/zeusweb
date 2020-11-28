@@ -8,7 +8,7 @@
  <script src="js/react-dom.js"></script>
  </head>
  <body>
-     <h1>[테스트 수정] jsp test / CSS / modelview ${projectVer}</h1>
+     <h1>[테스트 수정2] jsp test / CSS / modelview ${projectVer}</h1>
      <button type="button" id="btn-save">자바스크립트 테스트</button>
 
      <div id="content"></div>
